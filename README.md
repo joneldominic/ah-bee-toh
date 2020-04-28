@@ -10,9 +10,11 @@
 </p>
 
 [![BuiltWith][built-with-flutter-shield]][flutter-url]
+
 [![Codemagic build status][code-magic-shield]][code-magic-url]
 
 [![Maintenance][maintenance-shield]][maintenance-url] [![GitHub contributors][contributors-shield]][contributors-url] [![LinkedIn][linkedin-jonel-shield]][linkedin-jonel-url]
+
  [![PRs Welcome][pr-welcome-shield]][pr-welcome-url] [![GitHub pull-requests][pull-request-open-shield]][pull-request-open-url]  [![GitHub issues][issue-open-shield]][issue-open-url] 
 
 
