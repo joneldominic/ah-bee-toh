@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/joneldominic/ah-bee-toh">
-    <img src="https://raw.githubusercontent.com/joneldominic/ah-bee-toh/master/habito_logo.png" alt="Logo" height="200">
+    <img src="https://raw.githubusercontent.com/joneldominic/ah-bee-toh/master/habito_logo.png" alt="Logo" height="500">
   </a>
   <h2 align="center">Hábito: Do it or lose it</h2>
 </p>
@@ -78,7 +78,7 @@ Distributed under the **GPL-3.0**  License. See the [LICENSE](https://github.com
 [contributors-url]: https://github.com/joneldominic/ah-bee-toh/graphs/contributors
 
 [issue-open-shield]: https://img.shields.io/github/issues/joneldominic/ah-bee-toh.svg
-[issue-open-url]: https://GitHub.com/joneldominic/ah-bee-toh/issues/
+[issue-open-url]: https://github.com/joneldominic/ah-bee-toh/issues/
 
 [issue-close-shield]: https://img.shields.io/github/issues-closed/joneldominic/ah-bee-toh.svg
 [issue-close-url]: https://github.com/joneldominic/ah-bee-toh/issues?q=is%3Aissue+is%3Aclosed
