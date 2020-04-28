@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/joneldominic/ah-bee-toh">
-    <img src="https://raw.githubusercontent.com/joneldominic/ah-bee-toh/master/habito_logo.png" alt="Logo" height="200">
+    <img src="https://raw.githubusercontent.com/joneldominic/ah-bee-toh/master/habito_logo.png" alt="Logo" height="500">
   </a>
   <h2 align="center">Hábito: Do it or lose it</h2>
 </p>
