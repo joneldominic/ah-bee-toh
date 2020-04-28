@@ -77,7 +77,7 @@ Distributed under the **GPL-3.0**  License. See the [LICENSE](https://github.com
 [contributors-shield]: https://img.shields.io/github/contributors/joneldominic/ah-bee-toh.svg
 [contributors-url]: https://github.com/joneldominic/ah-bee-toh/graphs/contributors
 
-[issue-open-shield]: https://img.shields.io/github/issues-open/joneldominic/ah-bee-toh.svg
+[issue-open-shield]: https://img.shields.io/github/issues/joneldominic/ah-bee-toh.svg
 [issue-open-url]: https://github.com/joneldominic/ah-bee-toh/issues/
 
 [issue-close-shield]: https://img.shields.io/github/issues-closed/joneldominic/ah-bee-toh.svg
